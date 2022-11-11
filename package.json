@@ -1,0 +1,12 @@
+{
+  "name": "sumeetnaik.com",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/sumeetweb/sumeetnaik.com",
+  "author": "Sumeet Naik <25149022+sumeetweb@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "hugo"
+  }
+}
