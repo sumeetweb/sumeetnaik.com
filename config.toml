@@ -16,7 +16,7 @@ disqusShortname = "sumeetnaik"
   author = "Sumeet Naik"
   info = "Backend, Cloud & Coffee"
   description = "Sumeet Naik's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "Backend,Cloud,Engineer,Blog"
   avatarurl = "images/avatar.png"
   #gravatar = ""
 
@@ -29,6 +29,7 @@ disqusShortname = "sumeetnaik"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
+  customCSS = ["css/custom.css"]
 
 [params.cloudflare]
     token = "e8a1026859c841c1b74c53c570abf08a"
@@ -55,6 +56,11 @@ disqusShortname = "sumeetnaik"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/sumeetweb/"
+[[params.social]]
+  name = "Ko-fi"
+  icon = "fa fa-mug-hot ko-fi fa-2x"
+  weight = 4
+  url = "https://ko-fi.com/sumeet"
 
 # Menu links
 [[menu.main]]
