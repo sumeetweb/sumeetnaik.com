@@ -20,16 +20,12 @@ disqusShortname = "sumeetnaik"
   avatarurl = "images/avatar.png"
   #gravatar = ""
 
-  favicon_32 = "/images/favicon-32x32.png"
-  favicon_16 = "/images/favicon-16x16.png"
-
   since = 2022
 
   enableTwemoji = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
-  customCSS = ["css/custom.css"]
 
 [params.cloudflare]
     token = "e8a1026859c841c1b74c53c570abf08a"
@@ -42,23 +38,26 @@ disqusShortname = "sumeetnaik"
 
 # Social links
 [[params.social]]
-  name = "Github"
+  name = "GitHub"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/sumeetweb/"
+  url = "https://github.com/sumeetweb"
+
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/sumeetnaik19/"
+
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/sumeetweb/"
+  url = "https://twitter.com/sumeetweb"
+
 [[params.social]]
   name = "Ko-fi"
-  icon = "fa fa-mug-hot ko-fi fa-2x"
+  icon = "fa fa-buymeacoffee fa-2x"
   weight = 4
   url = "https://ko-fi.com/sumeet"
 
@@ -68,6 +67,11 @@ disqusShortname = "sumeetnaik"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Tech. and Sumeet"
   weight = 2
-  url = "about/"
+  url = "about-tech/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
