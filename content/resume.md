@@ -2,13 +2,13 @@
 title = "Resume"
 description = "About me, my experiences with people and tech."
 date = "2022-12-28"
-aliases = ["tech-resume", "about-tech"]
+aliases = ["tech-resume", "about-tech", "contact"]
 author = "Sumeet Naik"
 +++
 
-<img src="/images/avatar.png" height="200px" width="200px" alt="Sumeet Naik">
-
 Sumeet Naik.  
+Mailbox: hi@sumeetnaik.com  
+
 2023' Graduating Computer Science and Engineering from [SIT](https://silicon.ac.in).  
 
 
