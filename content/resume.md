@@ -1,15 +1,14 @@
 +++
-title = "Tech. and"
+title = "Resume"
 description = "About me, my experiences with people and tech."
-date = "28-12-2022"
-aliases = ["about-tech", "resume", "contact"]
+date = "2022-12-28"
+aliases = ["tech-resume", "about-tech"]
 author = "Sumeet Naik"
 +++
 
 <img src="/images/avatar.png" height="200px" width="200px" alt="Sumeet Naik">
 
 Sumeet Naik.  
-[INFP-T](https://www.16personalities.com/infp-personality).  
 2023' Graduating Computer Science and Engineering from [SIT](https://silicon.ac.in).  
 
 

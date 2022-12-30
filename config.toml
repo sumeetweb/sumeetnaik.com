@@ -67,9 +67,13 @@ disqusShortname = "sumeetnaik"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "Tech. and Sumeet"
+  name = "Resume"
   weight = 2
-  url = "about-tech/"
+  url = "tech-resume/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
 
 [markup]
   [markup.goldmark]
